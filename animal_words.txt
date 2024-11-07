@@ -1,0 +1,235 @@
+Dog  
+Cat  
+Horse  
+Cow  
+Pig  
+Sheep  
+Goat  
+Chicken  
+Duck  
+Turkey  
+Rabbit  
+Guinea pig  
+Hamster  
+Mouse  
+Rat  
+Ferret  
+Chinchilla  
+Parrot  
+Canary  
+Finch  
+Cockatiel  
+Budgerigar  
+Lovebird  
+Cockatoo  
+Macaw  
+African grey parrot  
+Cockatiel  
+Budgerigar  
+Lovebird  
+Cockatoo  
+Macaw  
+African grey parrot  
+Goldfish  
+Tropical fish  
+Guppy  
+Betta fish  
+Angelfish  
+Discus fish  
+Tetra fish  
+Molly fish  
+Swordtail fish  
+Gourami fish  
+Cichlid fish  
+Koi fish  
+Catfish  
+Betta fish  
+Angelfish  
+Discus fish  
+Tetra fish  
+Molly fish  
+Swordtail fish  
+Gourami fish  
+Cichlid fish  
+Koi fish  
+Catfish  
+Snake  
+Lizard  
+Turtle  
+Frog  
+Toad  
+Newt  
+Salamander  
+Gecko  
+Chameleon  
+Iguana  
+Monitor lizard  
+Crocodile  
+Alligator  
+Tortoise  
+Terrapin  
+Python  
+Boa constrictor  
+Anaconda  
+Rattlesnake  
+Cobra  
+Viper  
+Mamba  
+King snake  
+Corn snake  
+Ball python  
+Black rat snake  
+Rat snake  
+Garter snake  
+Water snake  
+Grass snake  
+Ring-necked snake  
+Coachwhip snake  
+Hognose snake  
+Gopher snake  
+Green tree python  
+Red-tailed boa  
+Leopard gecko  
+Bearded dragon  
+Blue-tongued skink  
+Chameleon  
+Iguana  
+Monitor lizard  
+Crocodile  
+Alligator  
+Tortoise  
+Terrapin  
+Python  
+Boa constrictor  
+Anaconda  
+Rattlesnake  
+Cobra  
+Viper  
+Mamba  
+King snake  
+Corn snake  
+Ball python  
+Black rat snake  
+Rat snake  
+Garter snake  
+Water snake  
+Grass snake  
+Ring-necked snake  
+Coachwhip snake  
+Hognose snake  
+Gopher snake  
+Green tree python  
+Red-tailed boa  
+Leopard gecko  
+Bearded dragon  
+Blue-tongued skink  
+Hermit crab  
+Crab  
+Shrimp  
+Lobster  
+Crayfish  
+Octopus  
+Squid  
+Cuttlefish  
+Starfish  
+Sea urchin  
+Sea cucumber  
+Jellyfish  
+Coral  
+Sea anemone  
+Sea sponge  
+Seahorse  
+Clownfish  
+Dolphin  
+Whale  
+Shark  
+Seal  
+Sea lion  
+Walrus  
+Manatee  
+Penguin  
+Seagull  
+Pelican  
+Albatross  
+Swan  
+Duck  
+Goose  
+Eagle  
+Hawk  
+Falcon  
+Owl  
+Sparrow  
+Robin  
+Blue jay  
+Cardinal  
+Crow  
+Raven  
+Blackbird  
+Pigeon  
+Vulture  
+Hummingbird  
+Woodpecker  
+Kingfisher  
+Bald eagle  
+Golden eagle  
+Peregrine falcon  
+Osprey  
+Barn owl  
+Snowy owl  
+Great horned owl  
+Tawny owl  
+Screech owl  
+Barred owl  
+Burrowing owl  
+Short-eared owl  
+Long-eared owl  
+Northern pygmy owl  
+Elf owl  
+Ostrich  
+Emu  
+Rhea  
+Cassowary  
+Kiwi  
+Flamingo  
+Pelican  
+Albatross  
+Swan  
+Duck  
+Goose  
+Eagle  
+Hawk  
+Falcon  
+Owl  
+Sparrow  
+Robin  
+Blue jay  
+Cardinal  
+Crow  
+Raven  
+Blackbird  
+Pigeon  
+Vulture  
+Hummingbird  
+Woodpecker  
+Kingfisher  
+Bald eagle  
+Golden eagle  
+Peregrine falcon  
+Osprey  
+Barn owl  
+Snowy owl  
+Great horned owl  
+Tawny owl  
+Screech owl  
+Barred owl  
+Burrowing owl  
+Short-eared owl  
+Long-eared owl  
+Northern pygmy owl  
+Elf owl  
+Ostrich  
+Emu  
+Rhea  
+Cassowary  
+Kiwi  
+Flamingo  
